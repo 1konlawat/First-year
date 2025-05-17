@@ -1,8 +1,9 @@
                                 First month
-      -float
-      -bool  
-      -int
-      -str
+   พื้นฐานประเภทข้อความ การแปลงข้อมูล
+           -float
+           -bool  
+           -int
+           -str
            -print
            -input
            -type casting แปลงชนิดข้อมูล
