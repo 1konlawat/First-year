@@ -22,5 +22,13 @@ elif B = 2:
 else:
    print("SO")
 ```
-## ประยุกต์ใช้
+## ประยุกต์ใช้ bool 
+```
+is_hungry = True
+if is_hungry:
+      print("What eat")
+else:
+      print("No")
+```
+ 
    
