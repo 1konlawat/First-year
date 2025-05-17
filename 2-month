@@ -1,1 +1,13 @@
+                       python Control
+การควบคุม ของpython 
+           - if-elif-else
+           - for / whil 
+           - break, continue, else
+           - list comprehension
+           - try-except
+           - lambda , map , filter , any , all
+      เข้าใจ scope ตัวแปล (local / global) เขียนฟังก์ชันแบบมี default / args / kwargs
+!! เป้าหมายคือความชำนาญ ในการใช้งานแบบแน่น 
 
+
+if-elif-else
