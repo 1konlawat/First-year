@@ -1,0 +1,1 @@
+# พื้นฐาน Neural Network(NN)
